@@ -20,27 +20,27 @@ Rust-Basics/
 │ │ ├── simple_input/ (Algorithm: Continuously accept input until 'end' is entered)
 │ │ ├── struct_trait_impl/ (Algorithm: Explain how struct impl and trait interact with each other)
 │ │ ├── sum_of_digits/ (Algorithm: Receive inputs and interact with them)
-│ │ ├── two_sums_HashMap/ (Algorithm: Two sums with HashMap)
+│ │ └── two_sums_HashMap/ (Algorithm: Two sums with HashMap)
 │ │
 │ ├── level-2/
 │ │ ├── binary_search/ (Algorithm: Binary search in a vector)
 │ │ ├── key-pressed/ (Algorithm: Detect keypress)
 │ │ ├── linear_search/ (Algorithm: Linear search in a vector)
 │ │ ├── pattern_matching/ (Algorithm: Pattern matching)
-│ │ ├── two_sums/ (Algorithm: Two sums)
-│
-│ ├── level-3/
-│ │ ├── bubble_sort/ (Algorithm: Bubble sort for arrays)
-│ │ ├── simple_file_renamer/ (Project: Rename files)
-│ │ ├── word_counter/ (Algorithm: Counts the number of words in a file )
+│ │ └── two_sums/ (Algorithm: Two sums)
+│ |
+│ └── level-3/
+│   ├── bubble_sort/ (Algorithm: Bubble sort for arrays)
+│   ├── simple_file_renamer/ (Project: Rename files)
+│   └── word_counter/ (Algorithm: Counts the number of words in a file )
 │
 ├── projects/
 │ ├── battle_ship/ (Project: Simple battleship game)
 │ ├── rust-ui/ (Project: GTK-based UI with a button)
-│ ├── Viagens/ (Project: Integration of structs and functions)
+│ └── Viagens/ (Project: Integration of structs and functions)
 │
-├── rocket/
- ├── rocket_101/ (Introduction to the Rocket web framework!)
+└── rocket/
+ └── rocket_101/ (Introduction to the Rocket web framework!)
 
 ```
 
